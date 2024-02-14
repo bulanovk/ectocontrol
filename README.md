@@ -45,12 +45,12 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [in
 ---
 
 [integration_blueprint]: https://github.com/custom-components/integration_blueprint
-[commits-shield]: https://img.shields.io/github/commit-activity/y/bulanovk/ha_test_component.svg?style=for-the-badge
-[commits]: https://github.com/bulanovk/ha_test_component/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bulanovk/ectocontrol.svg?style=for-the-badge
+[commits]: https://github.com/bulanovk/ectocontrol/commits/main
 [hacs]: https://hacs.xyz
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/bulanovk/ha_test_component.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/bulanovk/ectocontrol.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%40bulanovk-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/bulanovk/ha_test_component.svg?style=for-the-badge
-[releases]: https://github.com/bulanovk/ha_test_component/releases
+[releases-shield]: https://img.shields.io/github/release/bulanovk/ectocontrol.svg?style=for-the-badge
+[releases]: https://github.com/bulanovk/ectocontrol/releases
 [user_profile]: https://github.com/bulanovk
