@@ -7,6 +7,7 @@
 [![hacs][hacsbadge]][hacs]
 [![Project Maintenance][maintenance-shield]][user_profile]
 
+**Please notes this integration are still in Alpha state**
 
 **This component will set up the following platforms.**
 
